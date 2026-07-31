@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+models/*.h5
+
+*.pyc
+*.pyo
+*.pyd
+
+.DS_Store
+Thumbs.db
